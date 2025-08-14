@@ -1,1 +1,4 @@
-# my-api
+{
+  "ok": true,
+  "message": "Hello from GitHub!"
+}
